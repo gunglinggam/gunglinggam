@@ -35,10 +35,14 @@ Halo! Saya Gung Linggam, seorang pengembang perangkat lunak yang suka belajar ha
 ### My Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
+### Play Games
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
 Terima kasih sudah mampir ke profil saya! 😊
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 
 <!--
 **gunglinggam/gunglinggam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
