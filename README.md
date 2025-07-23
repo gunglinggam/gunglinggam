@@ -5,6 +5,8 @@
 
 <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=800&q=80" alt="Creative Workspace" width="600"/>
 
+<img src="https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=800&q=80" alt="Teamwork" width="600"/>
+
 Halo! Saya Gung Linggam, seorang pengembang perangkat lunak yang suka belajar hal baru dan berbagi pengetahuan.
 
 ### 🔥 Tentang Saya
@@ -25,9 +27,23 @@ Halo! Saya Gung Linggam, seorang pengembang perangkat lunak yang suka belajar ha
 </p>
 
 ### 📫 Kontak
-- Email: gunglinggam@email.com
-- LinkedIn: [linkedin.com/in/gunglinggam](https://linkedin.com/in/gunglinggam)
-- Instagram: [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/gunglinggam_)
+<p>
+  <a href="mailto:gunglinggam99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/gunglinggam">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/gunglinggam_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://wa.me/6281234567890">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@gunglinggam">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
 ### 🎯 Motto
 > "Belajar adalah investasi terbaik untuk masa depan."
