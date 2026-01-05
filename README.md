@@ -1,78 +1,68 @@
-## Hi there 👋
-![header](img/github-header-image.png)
+<div align="center">
 
-<img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80" alt="Coding Desk" width="600"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Hi,+I'm+Gung+Linggam;Network+Engineer+Intern;RPL+Student;Fullstack+Enthusiast" alt="Typing SVG" />
 
-<img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=800&q=80" alt="Creative Workspace" width="600"/>
+  <h3>
+    Membangun jembatan antara <span style="color: #22c55e;">Jaringan Kompleks</span> dan <span style="color: #22c55e;">Web Intuitif</span>.
+  </h3>
+  
+  <p>
+    Siswa <b>Rekayasa Perangkat Lunak (RPL)</b> di SMKN 8 Jakarta yang memiliki passion mendalam di dunia <b>Network Engineering</b>. Saya suka mengulik server (Proxmox/Mikrotik) sekaligus membangun antarmuka modern dengan React.
+  </p>
 
-<img src="https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=800&q=80" alt="Teamwork" width="600"/>
+  <p>
+    <a href="https://gamabout.smkn8jkt.online" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-22c55e?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+    </a>
+    <a href="mailto:gunglinggam99@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
-Halo! Saya Gung Linggam, seorang pengembang perangkat lunak yang suka belajar hal baru dan berbagi pengetahuan.
+</div>
 
-### 🔥 Tentang Saya
-- 💻 Fokus pada pengembangan web dan aplikasi mobile.
-- 🌱 Sedang mendalami React, Node.js, dan Python.
-- 🎨 Suka desain UI/UX dan ilustrasi digital.
-- 📚 Gemar membaca buku teknologi dan pengembangan diri.
-- 🚀 Terbuka untuk kolaborasi dan diskusi seputar teknologi.
-- 🕹️ Suka bermain game dan mencoba teknologi baru.
+<hr />
 
-### 🛠️ Skills
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-</p>
+### 🛠️ Tech Stack & Arsenal
 
-### 📫 Kontak
-<p>
-  <a href="mailto:gunglinggam99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
+| **Network & Infra** | ![Mikrotik](https://img.shields.io/badge/Mikrotik-AE1100?style=flat&logo=mikrotik&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) |
+
+<br/>
+
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td style="border: none;">
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=gunglinggam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+      </td>
+      <td style="border: none;">
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunglinggam&layout=compact&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🐍 Coding Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gunglinggam&theme=tokyo-night" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>Connect with Me</h3>
+  <a href="https://instagram.com/gunglinggam_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://linkedin.com/in/gunglinggam">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/gunglinggam" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://instagram.com/gunglinggam_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://github.com/gunglinggam" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github">
   </a>
-  <a href="https://wa.me/6281234567890">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@gunglinggam">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
-
-### 🎯 Motto
-> "Belajar adalah investasi terbaik untuk masa depan."
-
-### 📊 My Github Stats
-![Gung Linggam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunglinggam&show_icons=true&theme=radical)
-
-### 🕹️ Play Games
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-Terima kasih sudah mampir ke profil saya! 😊
-
-<!--
-**gunglinggam/gunglinggam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
